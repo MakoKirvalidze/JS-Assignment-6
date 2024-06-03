@@ -1,0 +1,19 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width:400px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.form input{
+    padding: 20px;
+    font-size: 20px;
+}
+
+.form button{
+    padding: 14px;
+    font-size: 18px;
+    background-color: rgb(148, 69, 82);
+    color: antiquewhite;
+}
